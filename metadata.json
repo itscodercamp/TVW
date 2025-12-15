@@ -1,0 +1,7 @@
+{
+  "name": "Trusted Vehicles",
+  "description": "A modern, smart automotive platform for buying, selling, valuation, insurance, and dealer services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
